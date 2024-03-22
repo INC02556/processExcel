@@ -1,0 +1,25 @@
+{
+  "name": "processexcel",
+  "version": "1.0.0",
+  "description": "Excel To JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/INC02556/processExcel.git"
+  },
+  "keywords": [
+    "processExcel"
+  ],
+  "author": "Siddharth Hota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/INC02556/processExcel/issues"
+  },
+  "homepage": "https://github.com/INC02556/processExcel#readme",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
